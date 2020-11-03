@@ -1,0 +1,17 @@
+[
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "tags"     : "",
+      "url"      : "/welcome-to-jekyll/",
+      "date"     : "2020-11-03 10:52:33 +0700"
+    } ,
+  
+    {
+      "title"    : "How this site was born 👶",
+      "tags"     : "blog, netlify, jekyll, github",
+      "url"      : "/how-this-site-was-made/",
+      "date"     : "2020-11-03 09:45:47 +0700"
+    } 
+  
+]
