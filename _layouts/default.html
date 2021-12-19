@@ -4,9 +4,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
   <head>
-    {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
-    {% endif %}
   </head>
 {% include header.html %}
 
