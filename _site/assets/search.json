@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Creating my first NFT Ξ",
+      "tags"     : "blog, crypto, nft",
+      "url"      : "/creating-my-first-nft/",
+      "date"     : "2022-01-07 18:18:00 +0700"
+    } ,
+  
+    {
       "title"    : "Welcome to Jekyll!",
       "tags"     : "",
       "url"      : "/welcome-to-jekyll/",
